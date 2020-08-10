@@ -4,3 +4,5 @@
 خالد
 
 cloned
+
+enabled smart stage change
