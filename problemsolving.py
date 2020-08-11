@@ -1,7 +1,10 @@
 import time
 import random
 
-str1 = ["As-salamu alaykum", "Salam Alaykum", "Hala", "WooooooooooooW"]
+str1 = ["As-salamu alaykum", 
+        "Salam Alaykum", 
+        "Hala", 
+        "WooooooooooooW"]
 
 for i in range(1,101):
     # print("{}. {}".format(str(i).zfill(2), str1))
