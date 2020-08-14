@@ -5,8 +5,4 @@
 
 cloned
 
-enabled smart stage change
-
-
-@@@
-Cleaner code with common data structures: Demo: Checking for winner with new rules
+smart stage change: enabled
